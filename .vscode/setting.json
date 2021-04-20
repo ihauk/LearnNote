@@ -1,0 +1,17 @@
+{
+  "editor.minimap.enabled": false,
+  "editor.wrappingIndent": "indent",
+  "editor.overviewRulerBorder": false,
+  "editor.lineHeight": 24,
+  "workbench.colorTheme": "Dark",
+  "[markdown]": {
+    "editor.quickSuggestions": true
+  },
+  "files.autoSave": "afterDelay", //自动保存文件，防止忘记保存文件
+  "files.autoSaveDelay": 10000, //延迟保存文件10s
+  "scm.alwaysShowRepositories": true,
+  "noteSync.enableNoteSync": true,
+  "noteSync.pullStatusMessage": "笔记正在下拉", // 当在下拉笔记时左下角显示的状态文案
+  "noteSync.runningStatusMessage": "笔记正在同步", // 当上传笔记时左下角显示的状态文案
+  "noteSync.finishStatusMessage": "笔记同步完成" // 当笔记同步成功后显示的状态文案
+}
